@@ -1,0 +1,23 @@
+{
+  "name": "back-4",
+  "version": "1.0.0",
+  "description": "día 4 del módulo 3",
+  "main": "clase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martorell93/back-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martorell93/back-4/issues"
+  },
+  "homepage": "https://github.com/Martorell93/back-4#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
